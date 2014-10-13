@@ -1,7 +1,8 @@
-/* 
-your CSS rules and font imports should go here 
-delete this comment, add the import directives for your fonts
-and add the CSS rules as described in the challenge
+/*
+	Author: Tanner Garrett
+	Date: 10/7/2014
+	TA: Zachary Balter
+	Description: This page contains all of the CSS rules and fonts required to style an informative page about the hip, new restaurant Dawg Pizza.
 */
 
 /* Imported Fonts */
@@ -29,10 +30,6 @@ body {
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
-}
-
-dt {
-	font-weight: 400;
 }
 
 footer {
